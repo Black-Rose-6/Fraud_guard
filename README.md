@@ -38,5 +38,3 @@ Deployment:
 The API was deployed on Google Cloud using Docker and ML Cloud Run.
 Deployment has been paused to avoid continuous billing charges.
 For further details on model summaries, performance, and dataset exploration using the Neo4j Graph Database and Python libraries, please refer to the project report:
-
-[Project Report](https://github.com/asthami/Fraud_guard/blob/main/ProjectReport.pdf)
